@@ -1,0 +1,7 @@
+DirectoryIndex coolsite.php
+Options -Indexes
+AuthUserFile /home/pocketsystem/www/coolsite/.htpasswd
+AuthType Basic
+AuthName "Web access"
+Satisfy all
+Order deny,allow
