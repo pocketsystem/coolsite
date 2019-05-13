@@ -1,0 +1,80 @@
+[
+	{
+		"id": "100",
+		"sitename": "ANDON",
+		"image": "100.png",
+		"url": "https://andon.shop/"
+	},
+	{
+		"id": "101",
+		"sitename": "BASEQ",
+		"image": "101.png",
+		"url": "https://www.baseq.jp/"
+	},
+	{
+		"id": "102",
+		"sitename": "MIMICRY DESIGN",
+		"image": "102.png",
+		"url": "https://mimicrydesign.co.jp/"
+	},
+	{
+		"id": "103",
+		"sitename": "焼きたて抹茶チーズタルト",
+		"image": "103.png",
+		"url": "https://cheesetart.com/lp/matcha2019/"
+	},
+	{
+		"id": "104",
+		"sitename": "QOObO",
+		"image": "104.png",
+		"url": "https://qoobo.info/"
+	},
+	{
+		"id": "105",
+		"sitename": "CARRAC",
+		"image": "105.png",
+		"url": "https://carrac.co.jp/"
+	},
+	{
+		"id": "106",
+		"sitename": "koloha",
+		"image": "106.png",
+		"url": "https://koloha.co.jp/"
+	},
+	{
+		"id": "107",
+		"sitename": "DAC",
+		"image": "107.png",
+		"url": "https://recruit.dac.co.jp/?doing_wp_cron=1556489761.3468339443206787109375"
+	},
+	{
+		"id": "108",
+		"sitename": "Branu",
+		"image": "108.png",
+		"url": "https://branu.jp/"
+	},
+	{
+		"id": "109",
+		"sitename": "お茶のはまだ",
+		"image": "109.png",
+		"url": "https://chiran-omoiire.com/"
+	},
+	{
+		"id": "110",
+		"sitename": "ADANS",
+		"image": "110.png",
+		"url": "https://adans.jp/"
+	},
+	{
+		"id": "111",
+		"sitename": "PERSOL",
+		"image": "111.png",
+		"url": "https://www.persol-group.co.jp/special/workstyle-award/index.html"
+	},
+	{
+		"id": "112",
+		"sitename": "sonihouse",
+		"image": "112.png",
+		"url": "https://www.sonihouse.net/"
+	}
+]
